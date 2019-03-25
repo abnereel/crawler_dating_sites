@@ -6,9 +6,9 @@ import (
 )
 
 const text = `
-My email is ccmouse1@gmail.com ,hello
+My email is aaa@gmail.com ,hello
 email1 is abc@def.org
-email2 is 408666378@qq.com
+email2 is abc@qq.com
 email3 is ddd@abc.com.cn
 `
 
